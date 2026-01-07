@@ -13,3 +13,5 @@ Comprend un header, un menu de navigation responsive, plusieurs sections de cont
 1. Cloner ce dépôt :  
 ```bash
 git clone <URL-du-repo>
+
+Ouvrir le fichier index.html dans un navigateur web moderne (Chrome, Firefox, Edge...).
