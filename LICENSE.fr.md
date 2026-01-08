@@ -1,4 +1,4 @@
-# Licence MIT (traduction française non officielle)
+# Licence MIT (traduction française)
 
 Permission est accordée, gratuitement, à toute personne obtenant une copie de ce logiciel et des fichiers de documentation associés (le "Logiciel"), 
 
