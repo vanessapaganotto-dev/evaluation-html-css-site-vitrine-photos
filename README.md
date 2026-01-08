@@ -4,10 +4,14 @@
 Page web statique réalisée avec HTML5 et Bootstrap 5.  
 Comprend un header, un menu de navigation responsive, plusieurs sections de contenu avec images et textes, ainsi qu’un footer.
 
+---
+
 ## Technologies utilisées  
 - HTML5  
 - Bootstrap 5 (via CDN)  
 - Bootstrap Icons (via CDN)
+
+---
 
 ## Installation  
 
@@ -17,6 +21,7 @@ git clone <URL-du-repo>
 
 - Ouvrir le fichier index.html dans un navigateur web moderne (Chrome, Firefox, Edge...).
 
+---
 
 
 ## Fonctionnalités
@@ -29,6 +34,8 @@ Cartes Bootstrap avec titres, images et boutons
 
 Footer simple
 
+---
+
 
 ## Améliorations possibles
 
@@ -36,16 +43,16 @@ Footer simple
 - Formulaire de contact fonctionnel  
 - Optimisation des images  
 - Site multi-pages
+
+---
   
 
 ## Auteur
 
 PAGANOTTO Vanessa
 
+---
+
 ## Licence
 
 Ce projet est sous licence MIT.
-
-Author
-
-Paganotto Vanessa
