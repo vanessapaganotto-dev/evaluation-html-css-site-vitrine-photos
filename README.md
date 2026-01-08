@@ -29,19 +29,22 @@ Cartes Bootstrap avec titres, images et boutons
 
 Footer simple
 
-Améliorations possibles
 
-Ajout d’interactions JavaScript
+## Améliorations possibles
 
-Formulaire de contact fonctionnel
+- Ajout d’interactions JavaScript  
+- Formulaire de contact fonctionnel  
+- Optimisation des images  
+- Site multi-pages
+  
 
-Optimisation des images
+## Auteur
 
-Site multi-pages
+PAGANOTTO Vanessa
 
+## Licence
 
-
-
+Ce projet est sous licence MIT.
 
 Author
 
